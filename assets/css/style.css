@@ -21,7 +21,7 @@ body {
 body::before {
     content: "";
     position: fixed;
-    background: #040404 url("/styfen/assets/img/tr.png") top right no-repeat;
+    background: url(/assets/img/tr.png) top right no-repeat;
     background-size: cover;
     left: 0;
     right: 0;
